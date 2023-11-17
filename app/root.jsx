@@ -367,13 +367,13 @@ export default function App() {
         <script
           dangerouslySetInnerHTML={{
             __html:
-              "const plebAiConf={chatTitle: 'AlbyGPT', agentKey: 'c52303f441aeef854852f361432ed21fc076d6f09eccb1df905b556cc6bcaba7', primaryColor: '#ffde6e', secondaryColor: '#fff4b0'};",
+              "const plebAiConf={chatTitle: 'AlbyGPT', agentKey: 'c52303f441aeef854852f361432ed21fc076d6f09eccb1df905b556cc6bcaba7', primaryColor: '#ffde6e', secondaryColor: '#fff4b0', buttonColor: '#fff4b0'};",
           }}
         ></script>
-        <script src="https://main--glittery-druid-ea3006.netlify.app/plebai.js"></script>
+        <script src="https://i.current.fyi/static/plebai.js"></script>
         <link
           rel="stylesheet"
-          href="https://main--glittery-druid-ea3006.netlify.app/styles.css"
+          href="https://i.current.fyi/static/styles.css"
         ></link>
         <Meta />
         <Links />
